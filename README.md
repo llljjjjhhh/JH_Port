@@ -11,9 +11,16 @@
 
 > 스킨드메시 애니메이션 데이터를 텍스처로 베이킹하는 워크플로우 정리
 
-## 소개
-`SkinnedMesh` 애니메이션을 텍스처로 베이킹해 GPU에서 효율적으로 재생하는 방법을 정리합니다.  
-아래 데모/성능/설정 가이드를 참고하세요.
+## PR 1
+무슨무슨 기능임
+ - 왜 씀
+ - 이런 기술, 이런 함수를 씀
+### Tech Demo
+https://github.com/user-attachments/assets/6275d816-2352-4b21-ab88-a251edd1d27e
+
+ > 활용된 결과
+
+https://github.com/user-attachments/assets/6275d816-2352-4b21-ab88-a251edd1d27e
 
 ## 데모
 - Web/Mobile/Quest: *(링크를 여기에 추가)*
@@ -41,5 +48,5 @@ cd <repo-name>
 
 
 
-https://github.com/user-attachments/assets/6275d816-2352-4b21-ab88-a251edd1d27e
+
 
