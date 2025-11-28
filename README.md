@@ -22,7 +22,7 @@ https://github.com/user-attachments/assets/6275d816-2352-4b21-ab88-a251edd1d27e
 
 https://github.com/user-attachments/assets/6275d816-2352-4b21-ab88-a251edd1d27e
 
-## 데모
+## PR 2
 - Web/Mobile/Quest: *(링크를 여기에 추가)*
 
 ## 성능 개선
