@@ -2,9 +2,12 @@
 # unity-animation-to-texture
 
 <p align="center">
-  <!-- 레포 루트에 이미지가 있다면 아래 경로 그대로 사용 -->
-  <img src="./KakaoTalk_20251128_170553359.png" alt="unity-animation-to-texture demo screenshot" width="900">
+  <img src="./KakaoTalk_20251128_170553359.png" alt="ㅋㅋㅋ" width="900">
+  </p>
+<p align="center">
+<img width="114" height="103" alt="ㅋㅋㅋ" src="https://github.com/user-attachments/assets/9e73feee-f64a-4120-b448-6e20676b34f4" />
 </p>
+
 
 > 스킨드메시 애니메이션 데이터를 텍스처로 베이킹하는 워크플로우 정리
 
@@ -22,3 +25,8 @@
 ```bash
 git clone <your-repo-url>.git
 cd <repo-name>
+```
+
+### unreal
+
+> aasd
