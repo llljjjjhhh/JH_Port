@@ -72,6 +72,16 @@ https://github.com/user-attachments/assets/3048274a-f922-46f2-9f8c-346f9b795d48
 ### Tech Demo
 https://github.com/user-attachments/assets/579ae8ac-2f83-442c-a4ad-5ad541b241c9
 
+## Tech 7
+이미터 최적화
+ - 부채꼴 형태로 배치해야 하는 파티클들을 최적화와 수정에 용이하도록 하나의 이미터로 제작
+### Tech Demo
+https://github.com/user-attachments/assets/d7968bee-0f20-4757-9f23-2b98e5c12b6f
+
+ > 활용된 결과
+
+https://github.com/user-attachments/assets/3048274a-f922-46f2-9f8c-346f9b795d48
+
 
 
 ### unreal
