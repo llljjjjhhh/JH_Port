@@ -17,10 +17,10 @@
  - 삼각함수를 이용하여 파티클 고유의 id마다 떨어질 위치를 직접 설정, 파티클의 id는 순서를 섞어주어 떨어지는 순서에도 랜덤성을 부여함
  - 여러개의 나이아가라 시스템을 스폰하지 않아도 되어 최적화에 도움
 ### Tech Demo
-https://github.com/user-attachments/assets/32a904c9-f16e-44bc-bd3a-07c1bf6f305d
+https://github.com/user-attachments/assets/b9ecb9aa-f86f-4b28-a2bc-e5717f3cb85d
 
  > 활용된 결과
-> 
+
 https://github.com/user-attachments/assets/6275d816-2352-4b21-ab88-a251edd1d27e
 
 ## Tech 2
@@ -28,7 +28,7 @@ https://github.com/user-attachments/assets/6275d816-2352-4b21-ab88-a251edd1d27e
  - 보스 스킬 제작 중 나이아가라 시스템 내에서 회오리가 이동하는것까지 구현해달라는 요청
  - 삼각함수를 이용하여 회오리 모형으로 파티클을 배치하고 랜덤값을 추가해서 vortex force가 적용된 이미터처럼 보이도록 제작
 ### Tech Demo
-https://github.com/user-attachments/assets/6275d816-2352-4b21-ab88-a251edd1d27e
+https://github.com/user-attachments/assets/32a904c9-f16e-44bc-bd3a-07c1bf6f305d
 
  > 활용된 결과
 
@@ -41,7 +41,7 @@ https://github.com/user-attachments/assets/6275d816-2352-4b21-ab88-a251edd1d27e
  - 액체를 표현하기 위한 opacity 텍스쳐 제작
  - 빛의 각도에 따라 결과물이 심하게 달라지는 것을 방지하기 위해 camera vector를 회전시키는 hlsl코드 작성
 ### Tech Demo
-https://github.com/user-attachments/assets/6275d816-2352-4b21-ab88-a251edd1d27e
+https://github.com/user-attachments/assets/c3aa8aa4-079d-469e-978e-d020d291aafe
 
  > 활용된 결과
 
@@ -90,10 +90,7 @@ https://github.com/user-attachments/assets/3048274a-f922-46f2-9f8c-346f9b795d48
 
 
 <p align="center">
-  <img width="114" height="103" alt="ㅋㅋㅋ" src="https://github.com/user-attachments/assets/9e73feee-f64a-4120-b448-6e20676b34f4" />
-</p>
-<p align="center">
-  <img width="114" height="103" alt="ㅋㅋㅋ" src="https://github.com/user-attachments/assets/9e73feee-f64a-4120-b448-6e20676b34f4" />
+  <img width="580" height="480" src="https://github.com/user-attachments/assets/440e96d1-d025-405f-8eb5-0361118b155b" /> <img width="580" height="480" src="https://github.com/user-attachments/assets/a8964e38-063f-49da-bc8e-4006fbe9a329" />
 </p>
 
 
