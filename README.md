@@ -9,19 +9,19 @@
 </p>
 
 
-> unreal material, scratch pad, hlsl 등을 이용하여 아트 퀄리티 개선, 최적화
+> scratch pad, hlsl, material, Blueprint 활용하여 아트 퀄리티 개선, 최적화, 편의성 개선
 
 ## Tech 1
 서로 다른 이미터에서 스폰되는 요소들이 각각 같은 random position 값을 가지도록 하는 scratch pad 제작
  - 공중에서 떨어지는 수십개의 화살을 하나의 나이아가라 시스템 내에서 구현하기 위함
- - 삼각함수를 이용하여 파티클 고유의 id마다 떨어질 위치를 직접 설정, 파티클의 id는 순서를 섞어주어 떨어지는 순서에도 랜덤성을 부여함
+ - Particle id 기반 Hash random값을 추출하고 삼각함수를 이용하여 떨어질 위치를 설정
  - 여러개의 나이아가라 시스템을 스폰하지 않아도 되어 최적화에 도움
 ### Tech Demo
 https://github.com/user-attachments/assets/b9ecb9aa-f86f-4b28-a2bc-e5717f3cb85d
 
  > 활용된 결과
 
-https://github.com/user-attachments/assets/6275d816-2352-4b21-ab88-a251edd1d27e
+https://github.com/user-attachments/assets/06a7348a-96da-410f-bdbe-aaf688165244
 
 ## Tech 2
 나이아가라 시스템 내에서 회오리 형태를 유지하며 x축 방향으로 이동하는 파티클을 구현하는 scratch pad 제작
@@ -32,7 +32,7 @@ https://github.com/user-attachments/assets/32a904c9-f16e-44bc-bd3a-07c1bf6f305d
 
  > 활용된 결과
 
-https://github.com/user-attachments/assets/6275d816-2352-4b21-ab88-a251edd1d27e
+https://github.com/user-attachments/assets/aac4d79c-a496-47e0-b772-c3a71f42497a
 
 ## Tech 3
 점액질 느낌을 낼 수 있는 액체 머리티얼 제작
@@ -45,7 +45,7 @@ https://github.com/user-attachments/assets/c3aa8aa4-079d-469e-978e-d020d291aafe
 
  > 활용된 결과
 
-https://github.com/user-attachments/assets/6275d816-2352-4b21-ab88-a251edd1d27e
+https://github.com/user-attachments/assets/a7e51a16-16f9-478d-8dc3-677822fddb2b
 
 ## Tech 4
 크리스탈 계단을 표현하기 위한 머티리얼 제작
@@ -82,15 +82,14 @@ https://github.com/user-attachments/assets/d7968bee-0f20-4757-9f23-2b98e5c12b6f
 
 https://github.com/user-attachments/assets/3048274a-f922-46f2-9f8c-346f9b795d48
 
-
-
-### unreal
-
-> aasd
-
-
+## Tech 8
+네이밍 기반 몬스터 자동 호출&배치 블루프린트
+ - 몬스터 번호만 입력한 후 자동으로 몬스터 배치, 원하는 애니메이션 재생
+ - 수백개의 몬스터 애셋을 빠르게 확인 가능
+### Tech Demo
 <p align="center">
-  <img width="580" height="480" src="https://github.com/user-attachments/assets/440e96d1-d025-405f-8eb5-0361118b155b" /> <img width="580" height="480" src="https://github.com/user-attachments/assets/a8964e38-063f-49da-bc8e-4006fbe9a329" />
+<img width="1920" height="1048" alt="KakaoTalk_20251224_164624577_01" src="https://github.com/user-attachments/assets/c1697afa-e8af-4a86-800a-5ad7b5160c28" />
+<img width="1920" height="1048" alt="KakaoTalk_20251224_164624577_02" src="https://github.com/user-attachments/assets/21db5980-8074-474b-8264-a3394c1e7501" />
 </p>
 
 
