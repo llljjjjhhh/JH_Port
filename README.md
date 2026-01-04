@@ -2,7 +2,7 @@
 # Technical Detail
 > scratch pad, hlsl, material, Blueprint 활용하여 아트 퀄리티 개선, 최적화, 편의성 개선
 
-활용된 결과 중 본인 작업물이 아닌 내용은 따로 표시하였습니다.(필요한 모듈만 제작)
+Tech1, Tech2의 활용된 결과는 본인 작업물이 아닙니다.(필요한 모듈만 제작)
 
 ## Tech 1
 서로 다른 이미터에서 스폰되는 요소들이 각각 같은 random position 값을 가지도록 하는 scratch pad 제작
