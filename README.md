@@ -1,15 +1,8 @@
 
 # Technical Detail
-
-<p align="center">
-  <img src="./KakaoTalk_20251128_170553359.png" alt="ㅋㅋㅋ" width="900">
-  </p>
-<p align="center">
-<img width="114" height="103" alt="ㅋㅋㅋ" src="https://github.com/user-attachments/assets/9e73feee-f64a-4120-b448-6e20676b34f4" />
-</p>
-
-
 > scratch pad, hlsl, material, Blueprint 활용하여 아트 퀄리티 개선, 최적화, 편의성 개선
+
+활용된 결과 중 본인 작업물이 아닌 내용은 따로 표시하였습니다.(필요한 모듈만 제작)
 
 ## Tech 1
 서로 다른 이미터에서 스폰되는 요소들이 각각 같은 random position 값을 가지도록 하는 scratch pad 제작
@@ -19,7 +12,7 @@
 ### Tech Demo
 https://github.com/user-attachments/assets/b9ecb9aa-f86f-4b28-a2bc-e5717f3cb85d
 
- > 활용된 결과
+ > 활용된 결과(본인 작업X)
 
 https://github.com/user-attachments/assets/06a7348a-96da-410f-bdbe-aaf688165244
 
@@ -30,7 +23,7 @@ https://github.com/user-attachments/assets/06a7348a-96da-410f-bdbe-aaf688165244
 ### Tech Demo
 https://github.com/user-attachments/assets/32a904c9-f16e-44bc-bd3a-07c1bf6f305d
 
- > 활용된 결과
+ > 활용된 결과(본인 작업X)
 
 https://github.com/user-attachments/assets/aac4d79c-a496-47e0-b772-c3a71f42497a
 
@@ -64,7 +57,7 @@ https://github.com/user-attachments/assets/3048274a-f922-46f2-9f8c-346f9b795d48
 
  > 활용된 결과
 
-https://github.com/user-attachments/assets/3048274a-f922-46f2-9f8c-346f9b795d48
+https://github.com/user-attachments/assets/3551f76b-fdf7-40c2-a8cc-eb8ddc48124c
 
 ## Tech 6
 단일 머티리얼 내에서 두개의 월드포지션 사이에 부채꼴 형태의 마스크를 그리는 머티리얼 R&D(test)
@@ -79,8 +72,8 @@ https://github.com/user-attachments/assets/579ae8ac-2f83-442c-a4ad-5ad541b241c9
 https://github.com/user-attachments/assets/d7968bee-0f20-4757-9f23-2b98e5c12b6f
 
  > 활용된 결과
-
-https://github.com/user-attachments/assets/3048274a-f922-46f2-9f8c-346f9b795d48
+> 
+https://github.com/user-attachments/assets/3368fd7d-0018-4c8d-9b3c-544f02a20e46
 
 ## Tech 8
 네이밍 기반 몬스터 자동 호출&배치 블루프린트
