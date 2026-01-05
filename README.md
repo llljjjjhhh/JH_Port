@@ -7,7 +7,7 @@
 
 
 R2 Origin Project Reel
-https://youtu.be/KmPInOZjDUg
+https://youtu.be/Dwznw2ArjRo
 
 Tech1, Tech2의 활용된 결과는 본인 작업물이 아닙니다.(필요한 모듈만 제작)
 
