@@ -45,9 +45,7 @@ https://github.com/user-attachments/assets/aac4d79c-a496-47e0-b772-c3a71f42497a
  - 액체를 표현하기 위한 opacity 텍스쳐 제작
  - 빛의 각도에 따라 결과물이 심하게 달라지는 것을 방지하기 위해 camera vector를 회전시키는 hlsl코드 작성
 ### Tech Demo 
-배경 라이트 기준 reflection vs 회전시킨 camera vector 기준 reflection
-
-https://github.com/user-attachments/assets/c3aa8aa4-079d-469e-978e-d020d291aafe
+https://github.com/user-attachments/assets/e6831495-d56d-4738-8c87-cbdabd3f69f7
 
  > 활용된 결과
 
