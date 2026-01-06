@@ -28,7 +28,7 @@ https://github.com/user-attachments/assets/1f681ab3-53fa-4b4d-8355-b8d88f145ef9
 https://github.com/user-attachments/assets/06a7348a-96da-410f-bdbe-aaf688165244
 
 ## Tech 2
-나이아가라 시스템 내에서 회오리 형태를 유지하며 x축 방향으로 이동하는 파티클을 구현하는 scratch pad 제작
+나이아가라 시스템 내에서 회오리 형태를 유지하며 특정 방향으로 이동하는 파티클을 구현하는 scratch pad 제작
  - 보스 스킬 제작 중 나이아가라 시스템 내에서 회오리가 이동하는것까지 구현해달라는 요청
  - 삼각함수를 이용하여 회오리 모형으로 파티클을 배치하고 랜덤값을 추가해서 vortex force가 적용된 이미터처럼 보이도록 제작
 ### Tech Demo
@@ -44,7 +44,9 @@ https://github.com/user-attachments/assets/aac4d79c-a496-47e0-b772-c3a71f42497a
  - 액체의 specular 강도나 형태를 아티스트가 직접 제어할 수 있도록 머티리얼의 specular 옵션을 켜지 않고 blinn reflection 방식을 머티리얼 내에서 구현
  - 액체를 표현하기 위한 opacity 텍스쳐 제작
  - 빛의 각도에 따라 결과물이 심하게 달라지는 것을 방지하기 위해 camera vector를 회전시키는 hlsl코드 작성
-### Tech Demo
+### Tech Demo 
+배경 라이트 기준 reflection vs 회전시킨 camera vector 기준 reflection
+
 https://github.com/user-attachments/assets/c3aa8aa4-079d-469e-978e-d020d291aafe
 
  > 활용된 결과
