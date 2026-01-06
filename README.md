@@ -9,15 +9,19 @@
 R2 Origin Project Reel
 https://youtu.be/Dwznw2ArjRo
 
-Tech1, Tech2의 활용된 결과는 본인 작업물이 아닙니다.(필요한 모듈만 제작)
+Tech1, Tech2의 보스 스킬은 본인 작업물이 아닙니다.(필요한 모듈만 제작)
 
 ## Tech 1
 서로 다른 이미터에서 스폰되는 요소들이 각각 같은 random position 값을 가지도록 하는 scratch pad 제작
  - 공중에서 떨어지는 수십개의 화살을 하나의 나이아가라 시스템 내에서 구현하기 위함
  - Particle id 기반 Hash random값을 추출하고 삼각함수를 이용하여 떨어질 위치를 설정
- - 여러개의 나이아가라 시스템을 스폰하지 않아도 되어 최적화에 도움
+ - 파티클이 생성되는 타이밍과 상관없이 각 이미터에서 n번째로 생성되는 파티클들은 동일한 위치값을 가짐
 ### Tech Demo
 https://github.com/user-attachments/assets/b9ecb9aa-f86f-4b28-a2bc-e5717f3cb85d
+
+> 활용된 결과
+
+https://github.com/user-attachments/assets/1f681ab3-53fa-4b4d-8355-b8d88f145ef9
 
  > 활용된 결과(본인 작업X)
 
