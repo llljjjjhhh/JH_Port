@@ -7,7 +7,7 @@
 
 
 R2 Origin Project Reel
-https://youtu.be/Dwznw2ArjRo
+https://youtu.be/KmPInOZjDUg
 
 Tech1, Tech2의 보스 스킬은 본인 작업물이 아닙니다.(필요한 모듈만 제작)
 
