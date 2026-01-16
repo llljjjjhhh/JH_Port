@@ -87,14 +87,10 @@ https://github.com/user-attachments/assets/d7968bee-0f20-4757-9f23-2b98e5c12b6f
 https://github.com/user-attachments/assets/3368fd7d-0018-4c8d-9b3c-544f02a20e46
 
 ## Tech 8
-네이밍 기반 몬스터 자동 호출&배치 블루프린트
+네이밍 기반 몬스터 자동 호출&배치 블루프린트 제작
  - 몬스터 번호만 입력한 후 자동으로 몬스터 배치, 원하는 애니메이션 재생
  - 수백개의 몬스터 애셋을 빠르게 확인 가능
-### Tech Demo
-<p align="center">
-<img width="1920" height="1048" alt="KakaoTalk_20251224_164624577_01" src="https://github.com/user-attachments/assets/c1697afa-e8af-4a86-800a-5ad7b5160c28" />
-<img width="1920" height="1048" alt="KakaoTalk_20251224_164624577_02" src="https://github.com/user-attachments/assets/21db5980-8074-474b-8264-a3394c1e7501" />
-</p>
+
 
 
 
