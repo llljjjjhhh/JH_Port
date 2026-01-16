@@ -44,8 +44,6 @@ https://github.com/user-attachments/assets/aac4d79c-a496-47e0-b772-c3a71f42497a
  - 액체의 specular 강도나 형태를 아티스트가 직접 제어할 수 있도록 머티리얼의 specular 옵션을 켜지 않고 blinn reflection 방식을 머티리얼 내에서 구현
  - 액체를 표현하기 위한 opacity 텍스쳐 제작
  - 빛의 각도에 따라 결과물이 심하게 달라지는 것을 방지하기 위해 camera vector를 회전시키는 hlsl코드 작성
-### Tech Demo 
-https://github.com/user-attachments/assets/e6831495-d56d-4738-8c87-cbdabd3f69f7
 
  > 활용된 결과
 
@@ -55,8 +53,6 @@ https://github.com/user-attachments/assets/a7e51a16-16f9-478d-8dc3-677822fddb2b
 크리스탈 계단을 표현하기 위한 머티리얼 제작
  - 계단에 흐르는 기운과 크리스탈 같은 반짝임을 표현하기 위해 신규 머티리얼 제작
  - World Position을 활용하여 휘어져있는 계단에 딱 맞게 흐르는 기운을 표현
-### Tech Demo
-https://github.com/user-attachments/assets/b2addd5e-6da3-465b-ae78-9925d5d2d278
 
  > 활용된 결과
 
