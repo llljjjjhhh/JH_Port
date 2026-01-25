@@ -1,4 +1,3 @@
-
 # Technical Detail
 > scratch pad, hlsl, material, Blueprint 활용하여 아트 퀄리티 개선, 최적화, 편의성 개선
 
@@ -17,6 +16,10 @@ Tech2, Tech3의 보스 스킬은 본인 작업물이 아닙니다.(필요한 모
 네이밍 기반 몬스터 자동 호출&배치 블루프린트 제작
  - 몬스터 번호만 입력한 후 자동으로 몬스터 배치, 원하는 애니메이션 재생
  - 수백개의 몬스터 애셋을 빠르게 확인 가능
+
+![align](https://github.com/user-attachments/assets/1be03518-5973-4660-ac34-7f964cd29776)
+
+
 
 # scratch pad
 
