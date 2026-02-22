@@ -3,8 +3,8 @@
 
 
 
-개인 프로젝트 Reel(02.22 Update)
-https://youtu.be/GwpSA70BsIc
+개인 프로젝트 Reel(02.23 Update)
+https://youtu.be/C1ql0DInltY
 
 R2 Origin Project Reel
 https://www.youtube.com/watch?v=ctgQPCvrjIY
