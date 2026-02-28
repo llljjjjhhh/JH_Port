@@ -3,11 +3,11 @@
 
 
 
-개인 프로젝트 Reel(02.23 Update)
-https://youtu.be/C1ql0DInltY
+개인 프로젝트 Reel(02.27 Update)
+https://youtu.be/hz6yQhAZBcE
 
 R2 Origin Project Reel
-https://www.youtube.com/watch?v=ctgQPCvrjIY
+https://youtu.be/ICloYJ39zVA
 
 Tech2, Tech3의 보스 스킬은 본인 작업물이 아닙니다.(필요한 모듈만 제작)
 
