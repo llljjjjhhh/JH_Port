@@ -4,7 +4,7 @@
 
 
 개인 프로젝트 Reel
-https://youtu.be/afLvtnE9gBY
+https://youtu.be/t-XmL0b5bdA
 
 R2 Origin Project Reel
 https://youtu.be/ICloYJ39zVA
