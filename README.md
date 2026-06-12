@@ -1,14 +1,6 @@
 # Technical Detail
 > scratch pad, hlsl, material, Blueprint 활용하여 아트 퀄리티 개선, 최적화, 편의성 개선
 
-
-
-개인 프로젝트 Reel
-https://youtu.be/ySIjl3jRzSA
-
-R2 Origin Project Reel
-https://youtu.be/fzM7AySesUw
-
 Tech2, Tech3의 보스 스킬은 본인 작업물이 아닙니다.(필요한 모듈만 제작)
 
 # blueprint script
